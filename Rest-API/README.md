@@ -108,10 +108,6 @@ model Book{
 }
 ```
 
-Great! Let's break down what this `schema.prisma` file is doing — it's defining your **database schema** using Prisma's modeling language.
-
----
-
 ## 7. Upload changes to the database
 ```bash
 yarn migrate

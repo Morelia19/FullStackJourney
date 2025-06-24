@@ -1,0 +1,1 @@
+An algorithm is a process or set of steps to accomplish a certain task.

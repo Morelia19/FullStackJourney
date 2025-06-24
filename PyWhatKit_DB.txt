@@ -1,0 +1,25 @@
+Date: 23/6/2025
+Time: 16:55
+Phone Number: +51997390808
+Message: Hola mami, este mensaje es enviado desde Python.
+--------------------
+Date: 23/6/2025
+Time: 17:2
+Phone Number: +51997390808
+Message: Hola mami, este mensaje es enviado desde Python.
+--------------------
+Date: 23/6/2025
+Time: 17:5
+Phone Number: +51997390808
+Message: Hola mami, este mensaje es enviado desde Python.
+--------------------
+Date: 23/6/2025
+Time: 17:9
+Phone Number: +51997390808
+Message: Hola, esto se envía automáticamente. 🚀
+--------------------
+Date: 23/6/2025
+Time: 17:10
+Phone Number: +51997390808
+Message: Hola, esto se envía automáticamente. 🚀
+--------------------
